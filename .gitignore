@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log*
+dist/
+build/
+.cache/
+.docusaurus/
+
+# Docusaurus
+*.DS_Store
+.env
+.env.*
+.vscode/
+*.log
+
+# macOS / Linux / Windows system files
+Thumbs.db
+.DS_Store
+
+# IDEs
+.idea/
+*.sublime*
+*.code-workspace
