@@ -1,0 +1,23 @@
+{
+  "id": "architecture/roles",
+  "title": "Стейкхолдеры и роли",
+  "description": "Внутренние",
+  "source": "@site/docs/architecture/roles.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/roles",
+  "permalink": "/docs/architecture/roles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Ограничения и рамки проекта",
+    "permalink": "/docs/architecture/constraints"
+  },
+  "next": {
+    "title": "Безопасность и доступность",
+    "permalink": "/docs/security/privacy"
+  }
+}

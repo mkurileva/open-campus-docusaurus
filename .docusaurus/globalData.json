@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "architecture/constraints",
+              "path": "/docs/architecture/constraints",
+              "sidebar": "docs"
+            },
+            {
+              "id": "architecture/roles",
+              "path": "/docs/architecture/roles",
+              "sidebar": "docs"
+            },
+            {
+              "id": "faq/issues",
+              "path": "/docs/faq/issues",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "requirements/functional",
+              "path": "/docs/requirements/functional",
+              "sidebar": "docs"
+            },
+            {
+              "id": "requirements/non-functional",
+              "path": "/docs/requirements/non-functional",
+              "sidebar": "docs"
+            },
+            {
+              "id": "security/privacy",
+              "path": "/docs/security/privacy",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

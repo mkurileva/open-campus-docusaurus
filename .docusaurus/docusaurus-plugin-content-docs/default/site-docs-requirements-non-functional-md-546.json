@@ -1,0 +1,23 @@
+{
+  "id": "requirements/non-functional",
+  "title": "Нефункциональные требования",
+  "description": "Производительность",
+  "source": "@site/docs/requirements/non-functional.md",
+  "sourceDirName": "requirements",
+  "slug": "/requirements/non-functional",
+  "permalink": "/docs/requirements/non-functional",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Функциональные требования",
+    "permalink": "/docs/requirements/functional"
+  },
+  "next": {
+    "title": "Ограничения и рамки проекта",
+    "permalink": "/docs/architecture/constraints"
+  }
+}

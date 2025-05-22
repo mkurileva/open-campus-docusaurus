@@ -1,0 +1,23 @@
+{
+  "id": "architecture/constraints",
+  "title": "Ограничения и рамки проекта",
+  "description": "Технические",
+  "source": "@site/docs/architecture/constraints.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/constraints",
+  "permalink": "/docs/architecture/constraints",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Нефункциональные требования",
+    "permalink": "/docs/requirements/non-functional"
+  },
+  "next": {
+    "title": "Стейкхолдеры и роли",
+    "permalink": "/docs/architecture/roles"
+  }
+}

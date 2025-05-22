@@ -1,0 +1,22 @@
+{
+  "name": "open-campus-docs",
+  "version": "1.0.0",
+  "main": "sidebars.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/module-type-aliases": "^3.7.0",
+    "@docusaurus/preset-classic": "^3.7.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}

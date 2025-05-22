@@ -1,0 +1,23 @@
+{
+  "id": "security/privacy",
+  "title": "Безопасность и доступность",
+  "description": "Защита данных",
+  "source": "@site/docs/security/privacy.md",
+  "sourceDirName": "security",
+  "slug": "/security/privacy",
+  "permalink": "/docs/security/privacy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Стейкхолдеры и роли",
+    "permalink": "/docs/architecture/roles"
+  },
+  "next": {
+    "title": "Проблемы и решения",
+    "permalink": "/docs/faq/issues"
+  }
+}
